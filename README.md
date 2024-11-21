@@ -114,11 +114,17 @@ root@ai-desktop:/nvdli-nano# 기억해두기
 <details>
     <summary>자세히</summary>
     
-1) ![Screenshot from 2024-11-21 19-58-41](https://github.com/user-attachments/assets/5cabddfa-9ae4-43d9-b094-fb7c60de1b55)
+1) 주소 잘 확인하기
 
-2) ![Screenshot from 2024-11-21 19-59-32](https://github.com/user-attachments/assets/447d1d79-57c7-4dc0-ab31-396a4ee99f91)
+    ![Screenshot from 2024-11-21 19-58-41](https://github.com/user-attachments/assets/5cabddfa-9ae4-43d9-b094-fb7c60de1b55)
 
-3) ![Screenshot from 2024-11-21 20-00-49](https://github.com/user-attachments/assets/365ecb99-9465-4529-97b6-a7952930ea4d)![Screenshot from 2024-11-21 20-01-09](https://github.com/user-attachments/assets/5d48f834-a9ae-4d65-95f2-4ab7af9c0e7b)
+2) 웹사이트에 http://192.168.176.16:8888 복사하고 비밀번호 dlinano 입력
+
+   ![Screenshot from 2024-11-21 19-59-32](https://github.com/user-attachments/assets/447d1d79-57c7-4dc0-ab31-396a4ee99f91)
+
+3) 아래 경로로 이동
+
+    ![Screenshot from 2024-11-21 20-00-49](https://github.com/user-attachments/assets/365ecb99-9465-4529-97b6-a7952930ea4d)![Screenshot from 2024-11-21 20-01-09](https://github.com/user-attachments/assets/5d48f834-a9ae-4d65-95f2-4ab7af9c0e7b)
 
 4) 실행시키기
  
@@ -130,10 +136,11 @@ root@ai-desktop:/nvdli-nano# 기억해두기
 
 6) Train한 데이터 평가하기
 
-   ![Screenshot from 2024-11-21 20-23-50](https://github.com/user-attachments/assets/27424658-1634-4d77-a213-571ae00cc2f2)
     thumbs_up의 경우 제대로 작동했지만 캡쳐하는 순간에 반대로 바뀌었다.
+   ![Screenshot from 2024-11-21 20-23-50](https://github.com/user-attachments/assets/27424658-1634-4d77-a213-571ae00cc2f2)
 
-   ![Screenshot from 2024-11-21 20-24-29](https://github.com/user-attachments/assets/01414e7e-b4f8-4662-afaf-69f01002c0b1)
     thumbs_down 제대로 학습됨
+   ![Screenshot from 2024-11-21 20-24-29](https://github.com/user-attachments/assets/01414e7e-b4f8-4662-afaf-69f01002c0b1)
+
 
 </details>
