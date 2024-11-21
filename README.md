@@ -79,7 +79,8 @@ https://driz2le.tistory.com/253
 4) allow 10 sec for JupyterLab to start @ http://192.168.176.16:8888 (password dlinano)
 JupterLab logging location:  /var/log/jupyter.log  (inside the container)
 root@ai-desktop:/nvdli-nano# 
-![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
+
+    ![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
 
 5) Terminal에 아래 내용 입력하기
  
@@ -115,11 +116,13 @@ root@ai-desktop:/nvdli-nano#
     
 1) ![Screenshot from 2024-11-21 19-58-41](https://github.com/user-attachments/assets/5cabddfa-9ae4-43d9-b094-fb7c60de1b55)
 
-2 )![Screenshot from 2024-11-21 19-59-32](https://github.com/user-attachments/assets/447d1d79-57c7-4dc0-ab31-396a4ee99f91)
+2) ![Screenshot from 2024-11-21 19-59-32](https://github.com/user-attachments/assets/447d1d79-57c7-4dc0-ab31-396a4ee99f91)
 
 3) ![Screenshot from 2024-11-21 20-00-49](https://github.com/user-attachments/assets/365ecb99-9465-4529-97b6-a7952930ea4d)![Screenshot from 2024-11-21 20-01-09](https://github.com/user-attachments/assets/5d48f834-a9ae-4d65-95f2-4ab7af9c0e7b)
 
-4) 실행시키기 ![Screenshot from 2024-11-21 20-01-55](https://github.com/user-attachments/assets/bcd37c99-2fbe-4a37-bdb4-7028991dc276)
+4) 실행시키기
+ 
+    ![Screenshot from 2024-11-21 20-01-55](https://github.com/user-attachments/assets/bcd37c99-2fbe-4a37-bdb4-7028991dc276)
 
 5) add 버튼으로 데이터 셋 A에만 tumbs_up 30개, tumbs_down 30개, epochs 10으로 Train 시켜본다.
 
