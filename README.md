@@ -76,5 +76,7 @@ https://driz2le.tistory.com/253
 JupterLab logging location:  /var/log/jupyter.log  (inside the container)
 root@ai-desktop:/nvdli-nano# 
 ![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
+4) ![0](https://github.com/user-attachments/assets/6d21d1a6-dd2d-47f2-b0df-45c787ce5190)
+
 
 </details>
