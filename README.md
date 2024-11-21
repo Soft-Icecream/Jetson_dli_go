@@ -59,6 +59,7 @@ https://driz2le.tistory.com/253
 
 <details>
     <summary>자세히</summary>
+    
 1) 교육과정에 필요한 dir 추가하기
 ~$ mkdir -p ~/nvdli-data
 
@@ -107,6 +108,7 @@ reboot  입력
 
 <details>
     <summary>자세히</summary>
+    
 1) ![Screenshot from 2024-11-21 19-58-41](https://github.com/user-attachments/assets/5cabddfa-9ae4-43d9-b094-fb7c60de1b55)
 
 2 )![Screenshot from 2024-11-21 19-59-32](https://github.com/user-attachments/assets/447d1d79-57c7-4dc0-ab31-396a4ee99f91)
