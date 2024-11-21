@@ -107,18 +107,15 @@ reboot  입력
 
 <details>
     <summary>자세히</summary>
-1)![Screenshot from 2024-11-21 19-58-41](https://github.com/user-attachments/assets/5cabddfa-9ae4-43d9-b094-fb7c60de1b55)
+1) ![Screenshot from 2024-11-21 19-58-41](https://github.com/user-attachments/assets/5cabddfa-9ae4-43d9-b094-fb7c60de1b55)
 
-2)![Screenshot from 2024-11-21 19-59-32](https://github.com/user-attachments/assets/447d1d79-57c7-4dc0-ab31-396a4ee99f91)
+2 )![Screenshot from 2024-11-21 19-59-32](https://github.com/user-attachments/assets/447d1d79-57c7-4dc0-ab31-396a4ee99f91)
 
-3)![Screenshot from 2024-11-21 20-00-49](https://github.com/user-attachments/assets/365ecb99-9465-4529-97b6-a7952930ea4d)![Screenshot from 2024-11-21 20-01-09](https://github.com/user-attachments/assets/5d48f834-a9ae-4d65-95f2-4ab7af9c0e7b)
+3) ![Screenshot from 2024-11-21 20-00-49](https://github.com/user-attachments/assets/365ecb99-9465-4529-97b6-a7952930ea4d)![Screenshot from 2024-11-21 20-01-09](https://github.com/user-attachments/assets/5d48f834-a9ae-4d65-95f2-4ab7af9c0e7b)
 
-4)실행시키기 ![Screenshot from 2024-11-21 20-01-55](https://github.com/user-attachments/assets/bcd37c99-2fbe-4a37-bdb4-7028991dc276)
+4) 실행시키기 ![Screenshot from 2024-11-21 20-01-55](https://github.com/user-attachments/assets/bcd37c99-2fbe-4a37-bdb4-7028991dc276)
 
-5)add 버튼으로 데이터 셋 A에만 tumbs_up 30ro tumb_down 30개 epochs 10으로 Train 시켜본다. ![Screenshot from 2024-11-21 20-09-31](https://github.com/user-attachments/assets/f0f6bad7-ec2e-4276-a1cd-805ea990a8a7)![Screenshot from 2024-11-21 20-17-10](https://github.com/user-attachments/assets/3e513705-6490-4b5d-8b7b-6a0991ae086b)![Screenshot from 2024-11-21 20-18-52](https://github.com/user-attachments/assets/855358a6-a7f1-455a-b6c8-f678b77216f8)![Screenshot from 2024-11-21 20-22-43](https://github.com/user-attachments/assets/bd9c4434-f853-4ba3-9a2e-79a473ac4e4c)
-
-
-
+5) add 버튼으로 데이터 셋 A에만 tumbs_up 30ro tumb_down 30개 epochs 10으로 Train 시켜본다. ![Screenshot from 2024-11-21 20-09-31](https://github.com/user-attachments/assets/f0f6bad7-ec2e-4276-a1cd-805ea990a8a7)![Screenshot from 2024-11-21 20-17-10](https://github.com/user-attachments/assets/3e513705-6490-4b5d-8b7b-6a0991ae086b)![Screenshot from 2024-11-21 20-18-52](https://github.com/user-attachments/assets/855358a6-a7f1-455a-b6c8-f678b77216f8)![Screenshot from 2024-11-21 20-22-43](https://github.com/user-attachments/assets/bd9c4434-f853-4ba3-9a2e-79a473ac4e4c)
 
 
 </details>
