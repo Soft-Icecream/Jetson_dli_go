@@ -61,11 +61,14 @@ https://driz2le.tistory.com/253
     <summary>자세히</summary>
     
 1) 교육과정에 필요한 dir 추가하기
-~$ mkdir -p ~/nvdli-data
 
-~$ ls
+    ~$ mkdir -p ~/nvdli-data
 
-2) sudo docker run --runtime nvidia -it --rm --network host \
+    ~$ ls
+
+2) Terminal 창에 입력
+   
+    sudo docker run --runtime nvidia -it --rm --network host \
     --memory=500M --memory-swap=4G \
     --volume ~/nvdli-data:/nvdli-nano/data \
     --volume /tmp/argus_socket:/tmp/argus_socket \
@@ -73,32 +76,33 @@ https://driz2le.tistory.com/253
     nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1kr
 ![Screenshot from 2024-11-14 21-30-33](https://github.com/user-attachments/assets/d36251a2-67c8-409c-bde9-a5038aee8b57)
 
-3) allow 10 sec for JupyterLab to start @ http://192.168.176.16:8888 (password dlinano)
+4) allow 10 sec for JupyterLab to start @ http://192.168.176.16:8888 (password dlinano)
 JupterLab logging location:  /var/log/jupyter.log  (inside the container)
 root@ai-desktop:/nvdli-nano# 
 ![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
 
-4) Terminal에 아래 내용 입력하기
-sudo systemctl disable nvzramconfig
+5) Terminal에 아래 내용 입력하기
+ 
+    sudo systemctl disable nvzramconfig
    
-sudo systemctl set-default multi-user.target
-sudo fallocate -l 18G /mnt/18GB.swap
+    sudo systemctl set-default multi-user.target
+    sudo fallocate -l 18G /mnt/18GB.swap
 
-sudo chmod 600 /mnt/18GB.swap
-sudo mkswap /mnt/18GB.swap
+    sudo chmod 600 /mnt/18GB.swap
+    sudo mkswap /mnt/18GB.swap
 
-sudo su
-echo "/mnt/18GB.swap swap swap defaults 0 0" >> /etc/fstab
-exit
+    sudo su
+    echo "/mnt/18GB.swap swap swap defaults 0 0" >> /etc/fstab    
+    exit
 
-sudo reboot
+    sudo reboot
 
 
 5) 입력하고 리부트 후 아이디 비밀번호 입력한 뒤 시스템 GUI모드로 설정:
 
-sudo systemctl set-default graphical.target
+    sudo systemctl set-default graphical.target
 
-reboot  입력
+    reboot  입력
 
 ![20241121_195357 (1)](https://github.com/user-attachments/assets/6e58f474-4763-472a-9214-09ef7149a68e)
 
@@ -117,7 +121,9 @@ reboot  입력
 
 4) 실행시키기 ![Screenshot from 2024-11-21 20-01-55](https://github.com/user-attachments/assets/bcd37c99-2fbe-4a37-bdb4-7028991dc276)
 
-5) add 버튼으로 데이터 셋 A에만 tumbs_up 30개 tumb_down 30개 epochs 10으로 Train 시켜본다. ![Screenshot from 2024-11-21 20-09-31](https://github.com/user-attachments/assets/f0f6bad7-ec2e-4276-a1cd-805ea990a8a7)![Screenshot from 2024-11-21 20-17-10](https://github.com/user-attachments/assets/3e513705-6490-4b5d-8b7b-6a0991ae086b)![Screenshot from 2024-11-21 20-18-52](https://github.com/user-attachments/assets/855358a6-a7f1-455a-b6c8-f678b77216f8)![Screenshot from 2024-11-21 20-22-43](https://github.com/user-attachments/assets/bd9c4434-f853-4ba3-9a2e-79a473ac4e4c)
+5) add 버튼으로 데이터 셋 A에만 tumbs_up 30개, tumbs_down 30개, epochs 10으로 Train 시켜본다.
+
+   ![Screenshot from 2024-11-21 20-09-31](https://github.com/user-attachments/assets/f0f6bad7-ec2e-4276-a1cd-805ea990a8a7)![Screenshot from 2024-11-21 20-17-10](https://github.com/user-attachments/assets/3e513705-6490-4b5d-8b7b-6a0991ae086b)![Screenshot from 2024-11-21 20-18-52](https://github.com/user-attachments/assets/855358a6-a7f1-455a-b6c8-f678b77216f8)![Screenshot from 2024-11-21 20-22-43](https://github.com/user-attachments/assets/bd9c4434-f853-4ba3-9a2e-79a473ac4e4c)
 
 
 </details>
