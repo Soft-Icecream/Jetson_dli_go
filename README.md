@@ -76,5 +76,26 @@ https://driz2le.tistory.com/253
 JupterLab logging location:  /var/log/jupyter.log  (inside the container)
 root@ai-desktop:/nvdli-nano# 
 ![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
+4) sudo systemctl disable nvzramconfig
+
+sudo systemctl set-default multi-user.target
+
+sudo fallocate -l 18G /mnt/18GB.swap
+sudo chmod 600 /mnt/18GB.swap
+sudo mkswap /mnt/18GB.swap
+
+sudo su
+echo "/mnt/18GB.swap swap swap defaults 0 0" >> /etc/fstab
+exit
+
+sudo reboot
+
+입력하고 리부트 후 아이디 비밀번호 입력한 뒤 시스템 GUI모드로 설정:
+
+sudo systemctl set-default graphical.target
+
+reboot
+
+![20241121_195357 (1)](https://github.com/user-attachments/assets/6e58f474-4763-472a-9214-09ef7149a68e)
 
 </details>
