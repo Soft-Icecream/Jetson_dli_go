@@ -78,7 +78,7 @@ https://driz2le.tistory.com/253
 
 4) allow 10 sec for JupyterLab to start @ http://192.168.176.16:8888 (password dlinano)
 JupterLab logging location:  /var/log/jupyter.log  (inside the container)
-root@ai-desktop:/nvdli-nano# 
+root@ai-desktop:/nvdli-nano# 기억해두기
 
     ![Screenshot from 2024-11-14 21-38-48](https://github.com/user-attachments/assets/3e03b97b-a22a-4847-b886-8616ea187a0f)
 
@@ -105,7 +105,7 @@ root@ai-desktop:/nvdli-nano#
 
     reboot  입력
 
-![20241121_195357 (1)](https://github.com/user-attachments/assets/6e58f474-4763-472a-9214-09ef7149a68e)
+    ![20241121_195357 (1)](https://github.com/user-attachments/assets/6e58f474-4763-472a-9214-09ef7149a68e)
 
 </details>
 
