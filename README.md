@@ -115,7 +115,7 @@ reboot  입력
 
 4) 실행시키기 ![Screenshot from 2024-11-21 20-01-55](https://github.com/user-attachments/assets/bcd37c99-2fbe-4a37-bdb4-7028991dc276)
 
-5) add 버튼으로 데이터 셋 A에만 tumbs_up 30ro tumb_down 30개 epochs 10으로 Train 시켜본다. ![Screenshot from 2024-11-21 20-09-31](https://github.com/user-attachments/assets/f0f6bad7-ec2e-4276-a1cd-805ea990a8a7)![Screenshot from 2024-11-21 20-17-10](https://github.com/user-attachments/assets/3e513705-6490-4b5d-8b7b-6a0991ae086b)![Screenshot from 2024-11-21 20-18-52](https://github.com/user-attachments/assets/855358a6-a7f1-455a-b6c8-f678b77216f8)![Screenshot from 2024-11-21 20-22-43](https://github.com/user-attachments/assets/bd9c4434-f853-4ba3-9a2e-79a473ac4e4c)
+5) add 버튼으로 데이터 셋 A에만 tumbs_up 30개 tumb_down 30개 epochs 10으로 Train 시켜본다. ![Screenshot from 2024-11-21 20-09-31](https://github.com/user-attachments/assets/f0f6bad7-ec2e-4276-a1cd-805ea990a8a7)![Screenshot from 2024-11-21 20-17-10](https://github.com/user-attachments/assets/3e513705-6490-4b5d-8b7b-6a0991ae086b)![Screenshot from 2024-11-21 20-18-52](https://github.com/user-attachments/assets/855358a6-a7f1-455a-b6c8-f678b77216f8)![Screenshot from 2024-11-21 20-22-43](https://github.com/user-attachments/assets/bd9c4434-f853-4ba3-9a2e-79a473ac4e4c)
 
 
 </details>
