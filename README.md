@@ -150,6 +150,9 @@ root@ai-desktop:/nvdli-nano# 기억해두기
 
 ## Jetson Nano에 Arduino IDE 설치 준비
 
+<details>
+    <summary>자세히</summary>
+    
 1) 필수 패키지 설치
 
     sudo apt update
@@ -168,3 +171,4 @@ root@ai-desktop:/nvdli-nano# 기억해두기
 4)
 5) 
 
+<details>
