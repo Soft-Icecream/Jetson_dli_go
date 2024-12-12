@@ -148,23 +148,7 @@ root@ai-desktop:/nvdli-nano# 기억해두기
 
 </details>
 
-## Jetson Nano에 Arduino IDE 설치 준비
 
-<details>
-    <summary>자세히</summary>
-    
-1) 필수 패키지 설치
-
-    sudo apt update
-   
-    sudo apt install -y wget curl tar
-
-2) Arduino IDE 다운로드
-
-    wget https://downloads.arduino.cc/arduino-1.8.19-linux64.tar.xz
-
-
-3) 압축 해제
 
     tar -xf arduino-1.8.19-linux64.tar.xz
 
