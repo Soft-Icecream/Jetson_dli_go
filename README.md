@@ -148,9 +148,3 @@ root@ai-desktop:/nvdli-nano# 기억해두기
 
 </details>
 
-    tar -xf arduino-1.8.19-linux64.tar.xz
-
-4)
-5) 
-
-<details>
